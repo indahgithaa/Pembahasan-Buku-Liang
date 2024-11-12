@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Soal8_4 {
+public class Soal5_21 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
